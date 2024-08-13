@@ -1,0 +1,58 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 关注健康|明年更年轻
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  A Bootstrap based jekyll theme for our wellness.
+
+
+baseurl: "/wellness" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+#post
+baseimg: base.jpg
+
+#footer
+
+built-by: Mr.Wang
+
+copyright:
+   name: Mr.Wang
+   link: 'http://www.wordpress.com'
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+paginate: 6
+paginate_path: /allinone/:num/
+
+# Tracker
+analytics: UA-83979019-1
+
+# Comments
+disqus: yes
+disqus-shortname: wellness
+
+#social
+facebook: http://facebook.com/wc
+github: http://github.com/mason-mx
+email: hello@example.com
+
+#facebook like box
+fb-like-box: yes
+fb-app-id: 58
+fb-page-url: https://www.facebook.com/wc/
+fb-page-title: wc
+
+# Sass style
+sass:
+  style: compressed
+
+# Ruby Gems
+plugins: [jekyll-paginate, jekyll-seo-tag]

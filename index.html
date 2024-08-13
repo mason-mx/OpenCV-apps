@@ -1,0 +1,21 @@
+---
+layout: index
+---
+
+<div class="home">
+  <div id="categories" class="row">
+    {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <div class="col-md-4 card">
+        <a href="{{ site.baseurl }}/category#{{ category_name | slugify }}" class="index-anchor">
+          <div class="panel panel-default">
+            <img height="200px" src="{{site.baseurl}}/images/{{category_name}}.png" alt="{{category_name}}">
+            <div class="panel-body">
+              <h2 class="panel-title pull-left">{{ category_name | truncate: 25 }}</h2>
+            </div>
+          </div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
