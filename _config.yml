@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 关注健康|明年更年轻
+title: 明年更年轻
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Bootstrap based jekyll theme for our wellness.
+  关注健康
 
 
 baseurl: "/wellness" # the subpath of your site, e.g. /blog
