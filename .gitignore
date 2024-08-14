@@ -1,0 +1,13 @@
+.vs/
+build/*
+bin/*
+cmake/modules/version.h
+cmake/modules/installversion
+SCPIServer/components/common/include/config.h
+cmake/modules/installversionhash
+*.aps
+tools/FakeConfigTool/FakeConfigTool/*.rc
+tools/InstrumentUpdater/*.rc
+tools/firmwareupdater/*.rc
+tools/manager/*.rc
+.vscode/*

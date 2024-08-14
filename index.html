@@ -3,6 +3,16 @@ layout: index
 ---
 
 <div class="home">
+  <div class="row">
+    {% for post in site.posts limit:6 %}
+      <div class="col-12 article-abstract">
+        <h2>{{ post.title }}</h2><div class="float-end"><a href="{{ post.url | prepend: site.baseurl }}">阅读全文</a></div>
+        <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+        <div>{{ post.content | split:'<!--break-->' | first }}</div>
+      </div>
+      <hr>
+    {% endfor %}
+  </div>
   <div id="categories" class="row">
     {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
