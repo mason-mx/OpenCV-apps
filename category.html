@@ -8,8 +8,8 @@ permalink: /category/
     <div class="row">
       {% capture category_name %}{{ category | first }}{% endcapture %}
       <div class="col-12 bg-info text-uppercase" id="#{{ category_name | slugize }}">
-        <h3 class="category-head">{{ category_name }}</h3>
         <a name="{{ category_name | slugize }}"></a>
+        <h3 class="category-head">{{ category_name }}</h3>
       </div>
 
       {% for post in site.categories[category_name] limit:6 %}
