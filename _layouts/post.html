@@ -15,6 +15,11 @@ layout: default
             {{ content }}
           </div>
 
+          {% if page.docurl %}
+            <p>
+              <a href="{{ page.docurl | prepend: site.baseurl }}" target="_blank" class="link-info link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">{{ page.title }}</a>
+            </p>
+          {% endif %}
     </article>
 <!--
     <div class="row">
