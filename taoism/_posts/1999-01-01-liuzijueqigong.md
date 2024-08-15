@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 六字诀气功
-docurl: /asset/pdf/liuzijueqigong.pdf
+docurl: /assets/pdf/liuzijueqigong.pdf
 ---
 
 六字訣是古代的健身功法之一，源於仿生的思想，並通過實踐與中醫理論相結合。六字訣的練習配合動作導引，達到內調臟腑，外練筋骨的綜合康復作用，利用吸吐納來調理身體五臟六腑。

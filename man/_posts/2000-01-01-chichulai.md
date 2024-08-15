@@ -2,7 +2,7 @@
 layout: post
 title: 吃出来的腹肌
 tags: wellness
-docurl: /asset/pdf/chichulaidefuji.pdf
+docurl: /assets/pdf/chichulaidefuji.pdf
 ---
 
 ### 腹肌是「吃」出來的，你知道嗎？！
