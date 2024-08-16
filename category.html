@@ -7,8 +7,7 @@ permalink: /category/
   {% for category in site.categories %}
     <div class="row">
       {% capture category_name %}{{ category | first }}{% endcapture %}
-      <div class="col-12 bg-info text-uppercase" id="#{{ category_name | slugize }}">
-        <a name="{{ category_name | slugize }}"></a>
+      <div class="col-12 bg-info text-uppercase" id="{{ category_name | slugize }}">
         <h3 class="category-head">{{ category_name }}</h3>
       </div>
 
