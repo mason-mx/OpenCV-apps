@@ -7,11 +7,11 @@ permalink: /category/
   {% for category in site.categories %}
     <div class="row">
       {% capture category_name %}{{ category | first }}{% endcapture %}
-      <div class="col-12 bg-info text-uppercase" id="{{ category_name | slugize }}">
-        <h3 class="category-head">{{ category_name }}</h3>
+      <div class="col-12 bg-info text-uppercase mb-3" id="{{ category_name | slugize }}">
+        <h1 class="category-head">{{ category_name }}</h3>
       </div>
 
-      {% for post in site.categories[category_name] limit:6 %}
+      {% for post in site.categories[category_name] limit:9 %}
         <div class="col-12 article-abstract">
           <h2>{{ post.title }}</h2><div class="float-end"><a href="{{ post.url | prepend: site.baseurl }}">阅读全文</a></div>
           <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
