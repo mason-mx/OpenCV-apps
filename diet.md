@@ -6,6 +6,28 @@ permalink: /diet/
 
 ### 营养品
 
-[![Swisse here in NZ](../assets/images/Swisse_Logo_232x85.jpeg "Swisse logo")](https://swisse.co.nz/)
+#### Swisse 澳大利亞品牌
 
-[![Redseal here in NZ](../assets/images/redseal-logo.svg "Redseal logo")](https://www.redseal.global/nz//)
+[![Swisse here in NZ](../assets/images/Swisse_Logo_232x85.jpeg "Swisse 官網")](https://swisse.co.nz/)
+
+Swisse是保健和健康公司，以助人每天為生活歡呼為使命。我們的使命：讓世界各地數以十億計的人變得更健康、更快樂。
+
+Swisse品牌是一個成功的澳洲故事。故事始於 Kevin Ring 於 1969 年在墨爾本一間小貨倉創立的業務。自創立之始，我們的使命便跟Swisse的基因不可分割 — 夢想令全世界的人活得更健康、更快樂。此使命正在充分實現。40 多年以來，Swisse一直投資於根據傳統證據和科學研究生產優質成份產品。
+
+時至今日，Swisse產品包括廣受歡迎的男性和女性多元維他命、食物保健品、運動營養、護膚和功能性食品。Swisse產品目前於澳洲、新西蘭、中國、新加坡、英國、意大利和荷蘭發售，並計劃未來五年內於 30 個國家推出。
+
+我們相信健康是所有人生命中最寶貴的東西。健康是所有其他重要的事物的基礎，包括朋友、家人、事業及一切夢想。Swisse辦公室內，各人員經常討論「健康與快樂」，故我們以「H&H」的簡稱代之。在Swisse，所有事都要通過「H&H 測試」。
+
+#### Redseal 新西蘭品牌
+
+[![Redseal here in NZ](../assets/images/redseal-logo.svg "Redseal 官網")](https://www.redseal.global/nz/)
+
+自1923年成立至今，在紐西蘭家喻戶曉的紅標（Red Seal）是販售多款保健牙膏、花草茶、營養補充劑的知名品牌，提供完善且高品質天然草本產品，以最平實的價格向民眾推廣充滿精神、健康、活力的生活品質。 紅標透過健全的產品研發，並結合創新的科學研究與技術，秉持著對自然療法的認知，給予您全方面均衡、天然有效的保健產品。
+
+#### Goodhealth 新西蘭品牌
+
+[![Goodhealth here in NZ](../assets/images/Goodhealth-Logo.jpg "Goodhealth 中文官網")](https://goodhealth.co.nz/zh/)
+
+好健康(Good Health) 紐西蘭好健康公司創立於1987年，其奠基者John Blanchard (約翰、布蘭查德)從當初推出月見草油產品開始發展至今，現己供應超過350種天然健康和美容產品，公司己經成熟發展成為一個誇國企業，分佈全球15個國家。
+
+在这个节奏紧凑的世界里，为自己的健康与福祉找到一刻宁静的时间似乎总是那么不易。无论是在您感到体力或精神不是最佳状态的时候，还是简单地寻求一种提升身心的方式，good health好健康都在此为您服务。我们精选的产品系列，富含独特且有效的成分，专门设计来满足您全身各个方面的健康需求。
