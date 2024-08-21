@@ -13,8 +13,8 @@ layout: index
       <hr>
     {% endfor %}
   </div>
-  <h1>>>分類閲讀</h1>
-  <div id="categories" class="row">
+  <div class="row d-xl-none">
+    <h1>>>分類閲讀</h1>
     {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
       <div class="col-md-4 card">
