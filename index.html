@@ -18,7 +18,7 @@ layout: index
     {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
       <div class="col-md-4 card">
-        <a href="{{ site.baseurl }}/{{ category_name | slugify }}/" class="index-anchor">
+        <a href="{{ site.baseurl }}/cat{{ category_name | slugify }}/" class="index-anchor">
           <div class="panel panel-default">
             <img height="200px" src="{{site.baseurl}}/images/{{category_name}}.png" alt="{{category_name}}">
             <div class="panel-body">

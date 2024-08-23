@@ -3,7 +3,7 @@
     {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
       <div class="row card">
-        <a href="{{ site.baseurl }}/{{ category_name | slugify }}/" class="index-anchor">
+        <a href="{{ site.baseurl }}/cat{{ category_name | slugify }}/" class="index-anchor">
           <div class="d-flex justify-content-between">
             <img height="50px" width="auto" src="{{site.baseurl}}/images/{{category_name}}.png" alt="{{category_name}}">
             <div class="panel-body my-auto">
