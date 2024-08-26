@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5大神級食物补硒
+title: 頸椎病引起的耳鳴
 tags: wellness
 ---
 <h3><img class="alignnone size-full wp-image-6250" src="https://excelmedicalgroup.com/wp-content/uploads/2018/06/tinnitus.jpg" alt="" width="540" height="280" srcset="https://excelmedicalgroup.com/wp-content/uploads/2018/06/tinnitus.jpg 540w, https://excelmedicalgroup.com/wp-content/uploads/2018/06/tinnitus-300x156.jpg 300w" sizes="(max-width: 540px) 100vw, 540px"></h3>
