@@ -5,12 +5,10 @@
     {% else %}
       <img width="600" src="{{site.baseurl}}/images/{{page.img}}" alt="{{page.title}}">
     {% endif %}
-  {% else %}
-  <img width="600" src="{{site.baseurl}}/images/{{site.default-image}}" alt="coming soon">
   {% endif %}
 </div>
 <div class="mt10 recent">
-  <h2>相关文章</h2>
+  <h2>最新文章</h2>
   <ul>
     {% for post in site.related_posts limit:3 %}
       <li>
@@ -21,6 +19,6 @@
 </div>
 {% if site.fb-like-box %}
 <div class="mt10">
-  <div class="fb-page" data-href="{{site.facebook}}" data-width="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="{{site.facebook}}" class="fb-xfbml-parse-ignore"><a href="{{site.fb-page-url}}">{{site.fb-page-title}}</a></blockquote></div>
+  <div class="fb-like" data-href="{{ post.url | prepend: site.baseurl }}" data-width="56" data-layout="" data-action="" data-size="" data-share="true"></div>
 </div>
 {% endif %}
