@@ -5,9 +5,7 @@
       {% for category in site.categories %}
       {% capture category_name %}{{ category | first }}{% endcapture %}
         <li>
-          <a class="text-uppercase" href="{{ site.baseurl }}/cat{{ category_name | slugify }}/">
-            {{ category_name | truncate: 25 }}
-          </a>
+          <a class="text-uppercase" href="{{ site.baseurl }}/cat{{ category_name | slugify }}/">{{ category_name | truncate: 25 }}</a>&nbsp;({{category[1].size}})
         </li>
       {% endfor %}
     </ul>
