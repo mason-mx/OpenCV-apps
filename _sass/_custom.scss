@@ -33,3 +33,19 @@
 .float-nav {
     width: 10%;
 }
+
+.post-content {
+    table {
+        border-collapse: collapse;
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid #999;
+        }
+
+        img {
+            height: 270px;
+            width: auto;
+        }
+    }
+}
