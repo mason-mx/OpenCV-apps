@@ -39,11 +39,11 @@ The type of weight training done by bodybuilders is meant to create microscopic 
 
 | 3.1❓ | 3.2❓ | 3.3❓ |
 | ----------- | ----------- | ----------- |
-| ![]() | ![]() | ![]() |
+| ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Curl.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/04/Triceps-Dips-on-Floor.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2023/09/waiter-curl.gif) |
 
 | 3.4❓ | 3.5❓ | 3.6❓ |
 | ----------- | ----------- | ----------- |
-| ![]() | ![]() | ![]() |
+| ![](https://fitnessprogramer.com/wp-content/uploads/2021/04/zottman-curl.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/06/Dumbbell-Skull-Crusher.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/08/Reverse-Grip-EZ-Bar-Curl.gif) |
 
 ### 腿
 
