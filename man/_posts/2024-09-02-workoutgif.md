@@ -45,16 +45,6 @@ The type of weight training done by bodybuilders is meant to create microscopic 
 | ----------- | ----------- | ----------- |
 | ![](https://fitnessprogramer.com/wp-content/uploads/2021/04/zottman-curl.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/06/Dumbbell-Skull-Crusher.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/08/Reverse-Grip-EZ-Bar-Curl.gif) |
 
-### 腿
-
-| 4.1❓ | 4.2❓ | 4.3❓ |
-| ----------- | ----------- | ----------- |
-| ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Hack-Squat.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Jump-Squat.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2023/09/curtsy-lunge.gif) |
-
-| 4.4❓ | 4.5❓ | 4.6❓ |
-| ----------- | ----------- | ----------- |
-| ![](https://fitnessprogramer.com/wp-content/uploads/2021/09/Barbell-Seated-Calf-Raise.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/06/Standing-Calf-Raise.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2023/09/dumbbell-lunges.gif) |
-
 ### 背
 
 | 5.1❓ | 5.2❓ | 5.3✅ |
@@ -63,7 +53,7 @@ The type of weight training done by bodybuilders is meant to create microscopic 
 
 | 5.4❓ | 5.5✅ | 5.6❓ |
 | ----------- | ----------- | ----------- |
-| ![](https://fitnessprogramer.com/wp-content/uploads/2022/04/Table-Inverted-Row.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/06/One-Arm-Barbell-Row-.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/08/Elbow-Reverse-Push-Up.gif) |
+| ![](https://fitnessprogramer.com/wp-content/uploads/2021/10/One-Arm-Landmine-Row.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/06/One-Arm-Barbell-Row-.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2023/02/Wide-Grip-Barbell-Bent-Over-Row-Plus.gif) |
 
 ### 腹
 
@@ -74,3 +64,13 @@ The type of weight training done by bodybuilders is meant to create microscopic 
 | 6.4❓ | 6.5❓ | 6.6❓ |
 | ----------- | ----------- | ----------- |
 | ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Reverse-Crunch-1.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Bicycle-Crunch.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/05/Tuck-Crunch.gif) |
+
+### 腿
+
+| 4.1❓ | 4.2❓ | 4.3❓ |
+| ----------- | ----------- | ----------- |
+| ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Hack-Squat.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Jump-Squat.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2023/09/curtsy-lunge.gif) |
+
+| 4.4❓ | 4.5❓ | 4.6❓ |
+| ----------- | ----------- | ----------- |
+| ![](https://fitnessprogramer.com/wp-content/uploads/2021/09/Barbell-Seated-Calf-Raise.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/06/Standing-Calf-Raise.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2023/09/dumbbell-lunges.gif) |
