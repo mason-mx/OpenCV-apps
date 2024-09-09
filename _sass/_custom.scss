@@ -49,3 +49,19 @@
         }
     }
 }
+
+.folded-corner {
+    position: relative;
+  }
+  
+  .folded-corner:before {
+    content: "";
+    position: absolute;
+    bottom: -1px;
+    right: -1px;
+    border-width: 0 16px 16px 0;
+    border-style: solid;
+    border-color: grey grey #fff #fff;
+    rotate: 270deg;
+    background-color: white;
+  }
