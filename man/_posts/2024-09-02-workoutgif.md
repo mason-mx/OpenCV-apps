@@ -17,11 +17,7 @@ The type of weight training done by bodybuilders is meant to create microscopic 
 | ----------- | ----------- | ----------- |
 | ![](https://fitnessprogramer.com/wp-content/uploads/2021/04/Barbell-Rear-Delt-Raise.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/04/dumbbell-cuban-press-.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Barbell-Shoulder-Press.gif) |
 
-| 1.4❎ | 1.5❎ | 1.6❎ |
-| ----------- | ----------- | ----------- |
-| ![](https://fitnessprogramer.com/wp-content/uploads/2021/10/Standing-Barbell-Close-Grip-Military-Press.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/04/Bent-Over-Barbell-Reverse-Raise.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/05/Seated-Behind-the-Neck-Press.gif) |
-
-| 1.7✅ | 1.8✅ | 1.9✅ |
+| 1.4✅ | 1.5✅ | 1.6✅ |
 | ----------- | ----------- | ----------- |
 | ![](https://fitnessprogramer.com/wp-content/uploads/2022/07/Incline-Landmine-Press.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/02/Dumbbell-Lateral-Raise.gif) | ![](https://fitnessprogramer.com/wp-content/uploads/2021/04/Weight-Plate-Front-Raise-1.gif) |
 
